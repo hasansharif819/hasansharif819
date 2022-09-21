@@ -11,19 +11,19 @@ As a quick learner I always dedicated to spend my best to effort to do better. I
 <h3 align="center">📞 01640911511</h3>
 
 <h3>- 🌱 I’m currently learning **Next.JS, Redux, PHP**</h3>
-- 🌱 I’m currently learning **Next.JS, Redux, PHP**
 
-- 👯 I’m looking to collaborate on **GitHub**
 
-- 🤝 I’m looking for help with **Web Development**
+<h3>- 👯 I’m looking to collaborate on **GitHub**</h3>
 
-- 👨‍💻 All of my projects are available at [https://sharifs-portfolio-sharif819.netlify.app/](https://sharifs-portfolio-sharif819.netlify.app/)
+<h3>- 🤝 I’m looking for help with **Web Development**</h3>
 
-- 💬 Ask me about **React, JavaScript, Node, C, C++**
+<h3>- 👨‍💻 All of my projects are available at [https://sharifs-portfolio-sharif819.netlify.app/](https://sharifs-portfolio-sharif819.netlify.app/)</h3>
 
-- 📫 How to reach me **hs.sharif819@gmail.com**
+<h3>- 💬 Ask me about **React, JavaScript, Node, C, C++**</h3>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yegtwAnYnfOLWN3-IPiLpDG3CLj2VNGd/view?usp=sharing](https://drive.google.com/file/d/1yegtwAnYnfOLWN3-IPiLpDG3CLj2VNGd/view?usp=sharing)
+<h3>- 📫 How to reach me **hs.sharif819@gmail.com**</h3>
+
+<h4>- 📄 Know about my experiences [https://drive.google.com/file/d/1yegtwAnYnfOLWN3-IPiLpDG3CLj2VNGd/view?usp=sharing](https://drive.google.com/file/d/1yegtwAnYnfOLWN3-IPiLpDG3CLj2VNGd/view?usp=sharing)</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
