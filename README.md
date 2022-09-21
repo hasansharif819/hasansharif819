@@ -10,6 +10,7 @@ As a quick learner I always dedicated to spend my best to effort to do better. I
 <h3 align="center">📧 hs.sharif819@gmail.com</h3>
 <h3 align="center">📞 01640911511</h3>
 
+<h3>- 🌱 I’m currently learning **Next.JS, Redux, PHP**</h3>
 - 🌱 I’m currently learning **Next.JS, Redux, PHP**
 
 - 👯 I’m looking to collaborate on **GitHub**
