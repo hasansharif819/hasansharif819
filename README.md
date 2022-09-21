@@ -17,7 +17,7 @@ As a quick learner I always dedicated to spend my best to effort to do better. I
 
 <h3>- 🤝 I’m looking for help with **Web Development**</h3>
 
-<h3>- 👨‍💻 All of my projects are available at [https://sharifs-portfolio-sharif819.netlify.app/](https://sharifs-portfolio-sharif819.netlify.app/)</h3>
+<h3>- 👨‍💻 All of my projects are available at [https://sharifs-portfolio-sharif819.netlify.app/]</h3>
 
 <h3>- 💬 Ask me about **React, JavaScript, Node, C, C++**</h3>
 
