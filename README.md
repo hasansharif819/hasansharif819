@@ -1,13 +1,14 @@
+![](https://media-exp1.licdn.com/dms/image/C5616AQGLbZNMc8z1EA/profile-displaybackgroundimage-shrink_350_1400/0/1663530355514?e=1669248000&v=beta&t=qB1xdaO3tYcehiUcIbBpBrJcDbkYYomJyNAm-E5Ng-g)
+
 <h1 align="center">Hi 👋, I'm Sharif Hasan</h1>
 <h3 align="center">Web Developer</h3>
 
-![](https://media-exp1.licdn.com/dms/image/C5616AQGLbZNMc8z1EA/profile-displaybackgroundimage-shrink_350_1400/0/1663530355514?e=1669248000&v=beta&t=qB1xdaO3tYcehiUcIbBpBrJcDbkYYomJyNAm-E5Ng-g)
 
 Sharif Hasan
 Studied at Institute of Science and Technology(IST) Dhanmondi, Dhaka. In Computer Science and Engineering at Bachelor of Science.
 As a quick learner I always dedicated to spend my best to effort to do better. I always ready to take challenges. Likely to passionate with problem solving. Am joining various indoor programming contest of my institutes. Working hard to something better and proved myself. Works with team projects when joining the programming contest.
-01640911511
-hs.sharif819@gmail.com
+<h3 align="center">📧 hs.sharif819@gmail.com</h3>
+<h3 align="center">📞 01640911511</h3>
 
 - 🌱 I’m currently learning **Next.JS, Redux, PHP**
 
