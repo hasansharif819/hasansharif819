@@ -1,10 +1,8 @@
 ![](https://media-exp1.licdn.com/dms/image/C5616AQGLbZNMc8z1EA/profile-displaybackgroundimage-shrink_350_1400/0/1663530355514?e=1669248000&v=beta&t=qB1xdaO3tYcehiUcIbBpBrJcDbkYYomJyNAm-E5Ng-g)
 
-<h1 align="center">Hi 👋, I'm Sharif Hasan</h1>
+<h1 align="center">Hi 👋, I'm </h1>
+<h1 align="center">Sharif Hasan</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-
-
-Sharif Hasan
 
 Currently, I am working as a Software Engineer at Idlewild Digital under Triplo LLC, from December 2022 to present.
 
