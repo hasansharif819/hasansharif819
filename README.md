@@ -1,25 +1,28 @@
 ![](https://media-exp1.licdn.com/dms/image/C5616AQGLbZNMc8z1EA/profile-displaybackgroundimage-shrink_350_1400/0/1663530355514?e=1669248000&v=beta&t=qB1xdaO3tYcehiUcIbBpBrJcDbkYYomJyNAm-E5Ng-g)
 
 <h1 align="center">Hi 👋, I'm Sharif Hasan</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 
 Sharif Hasan
-Studied at Institute of Science and Technology(IST) Dhanmondi, Dhaka. In Computer Science and Engineering at Bachelor of Science.
-As a quick learner I always dedicated to spend my best to effort to do better. I always ready to take challenges. Likely to passionate with problem solving. Am joining various indoor programming contest of my institutes. Working hard to something better and proved myself. Works with team projects when joining the programming contest.
+
+Currently, I am working as a Software Engineer at Idlewild Digital under Triplo LLC, from December 2022 to present.
+
+I completed my Bachelor's Degree in Computer Science and Engineering at the Institute of Science and Technology (IST) in 2022, located in Dhanmondi, Dhaka.
+As a quick learner, I am always dedicated to putting forth my best effort to improve. I am always ready to take on challenges and am passionate about problem-solving. I have participated in various indoor programming contests at my institute. I work hard to improve and prove myself, and I collaborate with team projects when participating in programming contests.
 <h3 align="center">📧 hs.sharif819@gmail.com</h3>
 <h3 align="center">📞 01640911511</h3>
 
-<h3>- 🌱 I’m currently learning **Next.JS, Redux, PHP**</h3>
+<h3>- 🌱 I’m currently learning **Next.JS, Redux, Typescript**</h3>
 
 
 <h3>- 👯 I’m looking to collaborate on **GitHub**</h3>
 
 <h3>- 🤝 I’m looking for help with **Web Development**</h3>
 
-<h3>- 👨‍💻 All of my projects are available at [https://sharifs-portfolio-sharif819.netlify.app/]</h3>
+<h3>- 👨‍💻 All of my projects are available at [https://sharifs-portfolio.vercel.app]</h3>
 
-<h3>- 💬 Ask me about **React, JavaScript, Node, C, C++**</h3>
+<h3>- 💬 Ask me about **React, JavaScript, Node, Next.JS, Typescript, Mongoose, C, C++**</h3>
 
 <h3>- 📫 How to reach me **hs.sharif819@gmail.com**</h3>
 
